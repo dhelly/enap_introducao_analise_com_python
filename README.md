@@ -4,3 +4,6 @@ O curso é uma rápida introdução aos conceitos iniciais do python com direcio
 
 ## Descrição do Curso
 Este curso aprofunda os fundamentos da ciência da computação em termos de variáveis, condicionais, loops e funções usando a sintaxe de programação do Python. Aprenda como aplicar esta linguagem para resolver vários problemas e usar seus frameworks / bibliotecas / pacotes para diferentes contextos
+
+## Para usar os scritps
+Use o Google Colaboratory. É simple e rápido.
